@@ -1,5 +1,4 @@
 # K-Nearest-Neighbors-KNN-Classification-with-the-Wine-Dataset
-# K-Nearest Neighbors (KNN) Classification with Wine Dataset
 
 This project demonstrates the K-Nearest Neighbors (KNN) algorithm on the Wine dataset, using different distance metrics (Euclidean, Manhattan, Minkowski). The dataset is used to classify wines based on various chemical properties. The aim is to explore how the choice of distance metric and the number of neighbors (k) affect the performance of the KNN classifier.
 
